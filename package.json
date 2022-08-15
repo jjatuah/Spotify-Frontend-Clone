@@ -1,5 +1,5 @@
 {
-  "name": "changing-complex-state-practice",
+  "name": "spotify-frontend-clone",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -11,16 +11,13 @@
     "axios": "^0.24.0",
     "firebase": "^9.5.0",
     "firebase-tools": "^9.23.0",
-    "movie-trailer": "^2.1.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-redux": "^7.2.6",
     "react-router-dom": "^6.0.2",
     "react-scripts": "3.2.0",
-    "react-youtube": "^7.13.1",
     "redux": "^4.1.2",
-    "spotify-web-api-js": "^1.5.2",
-    "styled-components": "^5.3.3"
+    "spotify-web-api-js": "^1.5.2"
   },
   "devDependencies": {
     "node-sass": "^6.0.1",
